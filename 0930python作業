@@ -9,6 +9,7 @@
 6.廻圈中又包含廻圈的 巢狀廻圈(nested loop)設計===九九乘法表
 ```
 
+```
 range的技術
 range的技術(1)
 list1=range(9)
@@ -61,3 +62,4 @@ print(list(list4))
 print(1,3,6,7)
 list(range(1,8,2))
 [10, 8, 6, 4, 2]
+```
